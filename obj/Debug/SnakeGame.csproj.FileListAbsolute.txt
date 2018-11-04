@@ -1,0 +1,9 @@
+C:\Users\mysql\source\repos\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+C:\Users\mysql\source\repos\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+C:\Users\mysql\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojAssemblyReference.cache
+C:\Users\mysql\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Form1.resources
+C:\Users\mysql\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+C:\Users\mysql\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+C:\Users\mysql\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\mysql\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+C:\Users\mysql\source\repos\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
